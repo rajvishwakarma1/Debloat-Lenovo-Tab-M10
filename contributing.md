@@ -11,5 +11,3 @@ Contributions to the Lenovo Tab M10 Debloat repository are welcome. If you have 
 Please provide a clear description of your changes and the rationale behind them in the pull request. Any relevant information or context would be helpful in reviewing and merging the changes.
 
 By contributing to this repository, you agree to license your contributions under the [MIT License](LICENSE).
-
-Please let me know if there's anything else I can help you with!
