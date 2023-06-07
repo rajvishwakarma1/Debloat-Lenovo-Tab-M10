@@ -28,3 +28,16 @@ Follow the steps below to debloat your Lenovo Tab M10 using the provided command
 2. Enable USB debugging on your tablet by going to `Settings > About tablet > Build number` and tapping on it 7 times to enable Developer options. Then, go to `Settings > Developer options` and enable USB debugging.
 3. Open a terminal or command prompt on your computer and navigate to the directory where ADB is installed.
 4. Run the following command to verify that your tablet is connected and recognized by ADB:
+adb devices
+You should see your device listed as a connected device.
+5. Now, you can use the provided debloat commands from the [debloat.md](debloat.md) file to uninstall or disable specific system apps. Refer to the debloat.md file for the list of commands.
+
+**Note**: Make sure to read the comments in the debloat.md file for each command to understand the implications and potential effects of disabling or uninstalling specific apps.
+
+## Contributing
+
+Contributions to this repository are welcome. If you have additional safe commands or improvements, please feel free to submit a pull request.
+
+## License
+
+This repository is licensed under the [MIT License](LICENSE).
